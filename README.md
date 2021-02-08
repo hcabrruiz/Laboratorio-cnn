@@ -1,6 +1,9 @@
 # Laboratorio-cnn
 se necesita ejecutar el siguiente código en simbolo de sistema, o anaconta para crear el entorno, e instalar librerias
 
+el códio LabCnn es para obtener el modelo
+el código app.py se reproduce a traves de simbolo de sistema usando "streamlit run app.py"
+
 
 
 conda create -n APIDeepStreamlit
